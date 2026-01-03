@@ -1,4 +1,4 @@
-package com.example.hmsjavafx;
+package com.hmsjavafx.view;
 
 import javafx.fxml.FXML;
 import javafx.scene.control.Label;

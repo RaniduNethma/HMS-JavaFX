@@ -1,4 +1,4 @@
-package com.example.hmsjavafx;
+package com.hmsjavafx.view;
 
 import javafx.application.Application;
 import javafx.fxml.FXMLLoader;

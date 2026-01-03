@@ -3,6 +3,6 @@ module com.example.hmsjavafx {
     requires javafx.fxml;
 
 
-    opens com.example.hmsjavafx to javafx.fxml;
-    exports com.example.hmsjavafx;
+    opens com.hmsjavafx.view to javafx.fxml;
+    exports com.hmsjavafx.view;
 }
