@@ -1,9 +1,9 @@
-package com.hmsjavafx.view;
+package com.hmsjavafx.controller;
 
 import javafx.fxml.FXML;
 import javafx.scene.control.Label;
 
-public class HelloController {
+public class MainFormController {
     @FXML
     private Label welcomeText;
 
